@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Ahora necesito coger un taxi para llegar al hotel.",
+				 "Ramona va a encontrarme allá mañana...",
+				 "Voy a preguntar donde puedo encontrar un taxi."
+			]
+		}
+	]
+}

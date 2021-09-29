@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Funcionaria",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc3_conversa",
+			"fala":[
+				 "Todavía no entiendo lo que quieres decir.",
+				 "¿Lo puedes repetir por favor?"
+			]
+		}
+	]
+}

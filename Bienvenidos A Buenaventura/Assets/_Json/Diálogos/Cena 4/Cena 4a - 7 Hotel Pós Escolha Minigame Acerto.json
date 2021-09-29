@@ -1,0 +1,36 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Gracias.",
+				 "Aquí está su llave.",
+				 "Habitación 840."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Muchas gracias."
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "A usted.",
+				 "¡Feliz estancia!"
+			]
+		}
+	]
+}

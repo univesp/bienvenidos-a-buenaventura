@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Para el desayuno el comedor está abierto de 5h45 a 9h30 de la mañana."
+			]
+		}
+	]
+}

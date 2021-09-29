@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "La cena es desde las siete hasta las nueve y media de la noche. No voy a olvidar."
+			]
+		}
+	]
+}

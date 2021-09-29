@@ -1,0 +1,33 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¿Cómo se llama usted, por favor?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "NOME SOBRENOME"
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¿Me puede deletrear SOBRENOME?"
+			]
+		}
+	]
+}

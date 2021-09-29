@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Debemos recoger nuestra acreditación.",
+				 "SR NOME, ¿me puede deletrear SOBRENOME?"
+			]
+		}
+	]
+}

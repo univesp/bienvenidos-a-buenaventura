@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Bueno, vou a abrochar mi cinturón de seguridad y aguardar el avión despegar."
+			]
+		}
+	]
+}

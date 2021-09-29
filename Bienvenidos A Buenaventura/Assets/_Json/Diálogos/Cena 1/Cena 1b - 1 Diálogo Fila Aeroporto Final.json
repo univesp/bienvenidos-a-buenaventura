@@ -1,0 +1,28 @@
+﻿{
+	"dialogo":[
+			{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Soy de ESTADO, Brasil"
+			]
+		},
+
+		{
+			"nomePersonagem": "Señora",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc1_conversa",
+			"fala":[
+				 "Mucho gusto. Soy ecuatoriana, de Quito.",
+				 "Eres BRASILEIRO. Mi hijo viajó a Brasil el año pasado.",
+				 "Le encantaron las playas, la comida, la gente...",
+				 "¡Es un lugar muy lindo!",
+				 "Mira, soy la próxima en ser atendida.",
+				 "¡Qué tengas un buen viaje!"
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "NOME DO PERSONAGEM",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "aqui vai a fala",
+				 "usar esse formato para mais de uma sentença. Apagar a vírgula acima se for só uma sentença"
+			]
+		},
+
+		{
+			"nomePersonagem": "NOME DO PERSONAGEM",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "se for pra ter mais de um diálogo no mesmo arquivo, tem que fazer nesse formato. Não esquece daquela vírgula lá em cima, logo depois das falas. Se for só um diálogo, tem que apagar aquela vírgula"
+			]
+		}		
+	]
+}

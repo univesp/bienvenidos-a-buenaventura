@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Prefiero una QUARTO. Me gusta también una con OBJETO1, OBJETO2 y OBJETO3 si la tienen."
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Sí, por supuesto."
+			]
+		}
+	]
+}

@@ -1,0 +1,67 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "¿De parte de quién?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "De NOME"
+			]
+		},
+
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Un momento, por favor.",
+				 "Le paso."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Gracias."
+			]
+		},
+
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "¡Buenas tardes, NOME!",
+				 "¿Qué tal?",
+				 "¿Has viajado bien?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Sí, muy bien.",
+				 "Estoy"
+			]
+		}
+	]
+}

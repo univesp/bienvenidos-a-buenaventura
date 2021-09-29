@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "JAJAJAJAJA, no bromees.",
+				 "Si estás en el mar, ¡cuidado con los tiburones!",
+				 "En serio, ¿Cómo podemos hacer para vernos?"
+			]
+		}
+	]
+}

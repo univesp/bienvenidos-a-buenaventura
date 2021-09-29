@@ -1,0 +1,24 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "Espero que te haya gustado este primer día de conferencias.",
+				 "¿Por qué no disfrutas un poco de Buenaventura ahora?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¡Gran idea!"
+			]
+		}
+	]
+}

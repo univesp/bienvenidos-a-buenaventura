@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "¡Qué bien!",
+				 "Debes descansar un poco, hay que estar temprano en la entrada del congreso mañana.",
+				 "¿Cómo podemos hacer para vernos?"
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Taxista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc2_conversa",
+			"fala":[
+				 "Buenas tardes, ¿A dónde quiere usted ir?"
+			]
+		}
+	]
+}

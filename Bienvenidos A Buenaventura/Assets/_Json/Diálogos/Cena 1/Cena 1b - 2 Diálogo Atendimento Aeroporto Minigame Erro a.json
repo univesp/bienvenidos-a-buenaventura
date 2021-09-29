@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Funcionaria",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc3_conversa",
+			"fala":[
+				 "Lo siento, no entiendo lo que quieres decir.",
+				 "¿Tiene usted algún equipaje para despachar?"
+			]
+		}
+	]
+}

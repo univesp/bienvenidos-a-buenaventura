@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Mientras no llegamos, voy a leer y descansar un poquito."
+			]
+		}
+	]
+}

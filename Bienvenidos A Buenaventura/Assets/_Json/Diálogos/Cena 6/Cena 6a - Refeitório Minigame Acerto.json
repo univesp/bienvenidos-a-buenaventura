@@ -1,0 +1,35 @@
+﻿{
+	"dialogo":[	
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¿Cómo vamos al congreso?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Vamos en taxi.",
+				 "Ya lo he llamado."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¡Qué bien!",
+				 "Vosotros en Buenaventura habéis pensado en todo."
+			]
+		}
+	]
+}

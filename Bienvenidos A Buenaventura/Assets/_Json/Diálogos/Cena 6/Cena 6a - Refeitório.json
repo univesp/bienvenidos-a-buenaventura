@@ -1,0 +1,33 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "Mira NOME, te presento a Juan, mi asistente."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Mucho gusto."
+			]
+		},
+
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Encantado."
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "No lo comprendo, SENHOR."
+			]
+		}
+	]
+}

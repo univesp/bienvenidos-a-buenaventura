@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Sí, tengo esta maleta. Gracias."
+			]
+		},
+		
+		{
+			"nomePersonagem": "Funcionaria",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc3_conversa",
+			"fala":[
+				 "Muy bien SENHOR, aquí está su tarjeta de embarque."
+			]
+		}
+	]
+}

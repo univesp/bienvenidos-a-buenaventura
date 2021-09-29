@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¿Tiene desayuno incluído?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Sí, como no. Si prefiere, hay también la opción con media pensión o pensión completa."
+			]
+		}
+	]
+}

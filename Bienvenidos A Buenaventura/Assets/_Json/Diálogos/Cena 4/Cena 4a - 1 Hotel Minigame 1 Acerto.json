@@ -1,0 +1,64 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Buenas tardes, tengo una habitación reservada."
+			]
+		}, 
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Muy bien. ¿A nombre de quién?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "NOME"
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "¿Y su apellido?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "SOBRENOME"
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Muy bien SR NOME SOBRENOME.",
+				 "¿La habitación es individual o doble?"
+			]
+		}
+	]
+}

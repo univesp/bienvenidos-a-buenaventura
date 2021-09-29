@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "El almuerzo es desde las doce hasta las tres de la tarde. Muy bien."
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Para la cena está abierto desde las 19h hasta las 21h30."
+			]
+		}
+	]
+}

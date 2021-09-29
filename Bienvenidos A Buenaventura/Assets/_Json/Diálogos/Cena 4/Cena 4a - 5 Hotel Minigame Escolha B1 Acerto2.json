@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "El almuerzo es desde las doce hasta las tres de la tarde. Muy bien."
+			]
+		}
+	]
+}

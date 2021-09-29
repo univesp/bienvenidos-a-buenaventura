@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "De seis menos cuarto a nueve y media de la mañana. De acuerdo."
+			]
+		},
+
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Para la cena está abierto desde las 19h hasta las 21h30."
+			]
+		}
+	]
+}

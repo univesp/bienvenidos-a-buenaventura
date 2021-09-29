@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Señora",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc1_conversa",
+			"fala":[
+				 "Gracias. No veo la hora en la pantalla.",
+				 "¿De dónde eres?"
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "¿Querías decir \"BRASILEIRO\"?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Eso, BRASILEIRO."
+			]
+		}
+	]
+}

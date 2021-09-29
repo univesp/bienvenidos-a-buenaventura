@@ -1,0 +1,24 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Señora",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc1_conversa",
+			"fala":[
+				 "¡No puede ser!",
+				 "¡Estoy retrasada y voy a perder mi vuelo!"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Perdona señora, me he equivocado."
+			]
+		}
+	]
+}

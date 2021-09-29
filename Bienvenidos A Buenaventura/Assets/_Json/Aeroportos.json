@@ -1,0 +1,157 @@
+﻿{
+	"aeroportos":
+	[
+		{
+			"estado": "Acre",
+			"iata": "CZS"
+		},
+		{
+			"estado": "Alagoas",
+			"iata": "MCZ"
+		},
+		{
+			"estado": "Amapá",
+			"iata": "MCP"
+		},
+		{
+			"estado": "Amapa",
+			"iata": "MCP"
+		},
+		{
+			"estado": "Amazonas",
+			"iata": "MAO"
+		},
+		{
+			"estado": "Bahia",
+			"iata": "SSA"
+		},
+		{
+			"estado": "Ceará",
+			"iata": "FOR"
+		},
+		{
+			"estado": "Ceara",
+			"iata": "FOR"
+		},
+		{
+			"estado": "Distrito Federal",
+			"iata": "BSB"
+		},
+		{
+			"estado": "Espírito Santo",
+			"iata": "GRU"
+		},
+		{
+			"estado": "Espirito Santo",
+			"iata": "GRU"
+		},
+		{
+			"estado": "Goiás",
+			"iata": "BSB"
+		},
+		{
+			"estado": "Goias",
+			"iata": "BSB"
+		},
+		{
+			"estado": "Maranhão",
+			"iata": "SLZ"
+		},
+		{
+			"estado": "Maranhao",
+			"iata": "SLZ"
+		},
+		{
+			"estado": "Mato Grosso",
+			"iata": "CGB"
+		},
+		{
+			"estado": "Mato Grosso Do Sul",
+			"iata": "CGR"
+		},
+		{
+			"estado": "Minas Gerais",
+			"iata": "CNF"
+		},
+		{
+			"estado": "Pará",
+			"iata": "BEL"
+		},
+		{
+			"estado": "Para",
+			"iata": "BEL"
+		},
+		{
+			"estado": "Paraíba",
+			"iata": "JPA"
+		},
+		{
+			"estado": "Paraiba",
+			"iata": "JPA"
+		},
+		{
+			"estado": "Paraná",
+			"iata": "CWB"
+		},
+		{
+			"estado": "Parana",
+			"iata": "CWB"
+		},
+		{
+			"estado": "Pernambuco",
+			"iata": "REC"
+		},
+		{
+			"estado": "Piauí",
+			"iata": "PHB"
+		},
+		{
+			"estado": "Piaui",
+			"iata": "PHB"
+		},
+		{
+			"estado": "Rio De Janeiro",
+			"iata": "GIG"
+		},
+		{
+			"estado": "Rio Grande Do Norte",
+			"iata": "NAT"
+		},
+		{
+			"estado": "Rio Grande Do Sul",
+			"iata": "POA"
+		},
+		{
+			"estado": "Rondônia",
+			"iata": "PVH"
+		},
+		{
+			"estado": "Rondonia",
+			"iata": "PVH"
+		},
+		{
+			"estado": "Roraima",
+			"iata": "BVB"
+		},
+		{
+			"estado": "Santa Catarina",
+			"iata": "FLN"
+		},
+		{
+			"estado": "São Paulo",
+			"iata": "GRU"
+		},
+		{
+			"estado": "Sao Paulo",
+			"iata": "GRU"
+		},
+		{
+			"estado": "Sergipe",
+			"iata": "REC"
+		},
+		{
+			"estado": "Tocantins",
+			"iata": "PHB"
+		}
+	]	
+}

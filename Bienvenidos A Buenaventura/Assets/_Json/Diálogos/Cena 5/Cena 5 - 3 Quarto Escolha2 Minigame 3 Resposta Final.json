@@ -1,0 +1,25 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Pues a las seis menos cuarto."
+			]
+		},
+
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "Uff… muy temprano.",
+				 "A ver...",
+				 "¿Te va bien mañana a las ocho menos veinte?"
+			]
+		}
+	]
+}

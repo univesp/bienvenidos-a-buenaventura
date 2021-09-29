@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/0 - MainMenu.unity
+    guid: e6ce3df159d36c4479fb797a3da76dfe
+  - enabled: 1
+    path: Assets/_Scenes/1 - Airport1.unity
+    guid: f7845fffefbfa04478531074db6acb45
+  - enabled: 1
+    path: Assets/_Scenes/2 - Airplane.unity
+    guid: ba1fd832a213dab46afba78e07bc6d9e
+  - enabled: 1
+    path: Assets/_Scenes/3 - Airport2.unity
+    guid: e418024819bcbbd40ac727528a9cfb60
+  - enabled: 1
+    path: Assets/_Scenes/4 - Hotel.unity
+    guid: 52fcbbaec62f4d5498e1ff84e87206e9
+  - enabled: 1
+    path: Assets/_Scenes/5 - Quarto.unity
+    guid: c92a1ffe5763d3d45b57a2f2bd8312be
+  - enabled: 1
+    path: Assets/_Scenes/6 - Congresso.unity
+    guid: 36022b2841fa10e4f864b0e1ca86c2f4
+  - enabled: 1
+    path: Assets/_Scenes/7 - Fim.unity
+    guid: 16b837e2fe71e9d4dbcec18943e510b2
+  m_configObjects: {}

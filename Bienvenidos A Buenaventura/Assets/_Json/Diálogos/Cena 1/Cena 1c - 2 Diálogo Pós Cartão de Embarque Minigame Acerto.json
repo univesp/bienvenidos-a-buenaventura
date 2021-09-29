@@ -1,0 +1,44 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "¿me puede decir dónde está la puerta ocho?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Funcionario",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc2_conversa",
+			"fala":[
+				 "Sigue usted por este pasillo.",
+				 "La puerta ocho está adelante."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Gracias."
+			]
+		},
+
+		{
+			"nomePersonagem": "Funcionario",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc2_conversa",
+			"fala":[
+				 "De nada."
+			]
+		}
+	]
+}

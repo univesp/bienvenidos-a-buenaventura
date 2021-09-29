@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Mejor aguardar en la sala de embarque.",
+				 "Pero no sé como llegar a la puerta ocho.",
+				 "Voy a preguntar a un funcionario."
+			]
+		}
+	]
+}

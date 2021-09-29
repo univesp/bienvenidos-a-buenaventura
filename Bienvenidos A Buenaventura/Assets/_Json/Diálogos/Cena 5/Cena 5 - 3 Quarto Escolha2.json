@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Secretaria de desarrollo, buenas tardes."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Buenas tardes,"
+			]
+		}
+	]
+}

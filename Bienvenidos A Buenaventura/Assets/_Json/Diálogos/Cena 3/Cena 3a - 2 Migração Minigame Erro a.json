@@ -1,0 +1,53 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "Sí, como no. ¿No es usted de aquí, no?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "No, ¿cómo lo sabes?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "Porque acá solemos tratar a las personas que no conocemos por “usted”, y me ha tratado por “tú”."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Perdone, no lo he notado. Estoy buscando practicar mi español…"
+			]
+		},
+
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "No pasa nada, ¿en qué puedo ayudarle?"
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Me voy a duchar en el baño, luego me visto y me acuesto una media horita.",
+				 "Así relajo un poquito del viaje."
+			]
+		}
+	]
+}

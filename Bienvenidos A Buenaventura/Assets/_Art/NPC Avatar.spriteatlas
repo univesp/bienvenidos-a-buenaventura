@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC Avatar
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cd2cc9af9793b974488bbaac18cbd81f, type: 3}
+    - {fileID: 2800000, guid: aac5bd408d130334e9c38c6c18b4863f, type: 3}
+    - {fileID: 2800000, guid: 4fdcfe95057562847b8aff00727637e9, type: 3}
+    - {fileID: 2800000, guid: 1e78ae3e8ef66904283768a4abcf3e4a, type: 3}
+    - {fileID: 2800000, guid: 6b94c17b031bc1e4d924dd568a900e9c, type: 3}
+    - {fileID: 2800000, guid: 84ee452fd9cfa6a449fad299b62f62d3, type: 3}
+    - {fileID: 2800000, guid: d83b62dab38c87e4cacb1cd0f80570ae, type: 3}
+    - {fileID: 2800000, guid: 1111313c3c41bbe478de4ad6ce4e1109, type: 3}
+    totalSpriteSurfaceArea: 4060119
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aac5bd408d130334e9c38c6c18b4863f, type: 3}
+  - {fileID: 21300000, guid: 4fdcfe95057562847b8aff00727637e9, type: 3}
+  - {fileID: 21300000, guid: d83b62dab38c87e4cacb1cd0f80570ae, type: 3}
+  - {fileID: 21300000, guid: 6b94c17b031bc1e4d924dd568a900e9c, type: 3}
+  - {fileID: 21300000, guid: 1111313c3c41bbe478de4ad6ce4e1109, type: 3}
+  - {fileID: 21300000, guid: 1e78ae3e8ef66904283768a4abcf3e4a, type: 3}
+  - {fileID: 21300000, guid: 84ee452fd9cfa6a449fad299b62f62d3, type: 3}
+  - {fileID: 21300000, guid: cd2cc9af9793b974488bbaac18cbd81f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cena1_npc2_conversa
+  - cena1_npc3_conversa
+  - cena5_juan_conversa
+  - cena3_npc2_conversa
+  - cena5_ramona_conversa
+  - cena3_npc1_conversa
+  - cena4_npc1
+  - cena1_npc1_conversa
+  m_Tag: NPC Avatar
+  m_IsVariant: 0

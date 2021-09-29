@@ -1,0 +1,34 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "No podemos almorzar, si no llegaremos tarde al congreso.",
+				 "¿Por qué no desayunamos entonces?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Vale"
+			]
+		},
+
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "¿A qué hora empiezan a servir el desayuno en tu hotel?"
+			]
+		}
+	]
+}

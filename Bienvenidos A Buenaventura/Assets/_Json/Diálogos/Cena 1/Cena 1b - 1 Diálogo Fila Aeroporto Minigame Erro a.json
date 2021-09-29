@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Señora",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc1_conversa",
+			"fala":[
+				 "Perdona. No comprendo."
+			]
+		}
+	]
+}

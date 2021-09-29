@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Todavía hay tiempo para embarcar, pero tengo que pasar por el control de seguridad y por el control de pasaportes.",
+				 "Mi vuelo sale a las…"
+			]
+		}
+	]
+}

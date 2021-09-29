@@ -1,0 +1,23 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "¿Cómo se llama usted? ¿De dónde es?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Me llamo NOME. Soy..."
+			]
+		}
+	]
+}

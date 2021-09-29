@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Juan",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_juan_conversa",
+			"fala":[
+				 "Muy bien.",
+				 "La sesión inaugural empezará dentro de veinte minutos."
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "No, no. A las “Diez y diez” serán cuarenta minutos de anticipación.",
+				 "Mi vuelo sale a las…"
+			]
+		}
+	]
+}

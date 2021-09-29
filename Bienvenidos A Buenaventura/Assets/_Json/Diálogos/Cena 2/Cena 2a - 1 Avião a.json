@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Mi asiento es de ventanilla. No me gusta estar en el pasillo.",
+				 "Hmmm, ¡Desde acá puedo mirar una de las alas del avión!",
+				 "Bueno, vou a abrochar mi cinturón de seguridad y aguardar el avión despegar."
+			]
+		}
+	]
+}

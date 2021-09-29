@@ -1,0 +1,15 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "JAJAJAJAJA, no bromees.",
+				 "Conozco tu sofisticación, pero necesitamos de ti aquí en Buenaventura.",
+				 "Ahora en serio, ¿Cómo podemos hacer para vernos?"
+			]
+		}
+	]
+}

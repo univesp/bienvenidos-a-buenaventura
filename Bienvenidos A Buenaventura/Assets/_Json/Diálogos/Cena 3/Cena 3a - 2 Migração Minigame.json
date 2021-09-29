@@ -1,0 +1,13 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Funcionario",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Buenas tardes. ¿Cómo le puedo ayudar?"
+			]
+		}
+	]
+}

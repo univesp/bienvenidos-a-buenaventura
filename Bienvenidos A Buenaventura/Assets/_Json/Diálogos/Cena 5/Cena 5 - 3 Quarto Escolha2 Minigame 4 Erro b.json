@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Ramona",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena5_ramona_conversa",
+			"fala":[
+				 "No, es una hora más de lo que pienso.",
+				 "¿Te va bien mañana a las ocho menos veinte?"
+			]
+		}
+	]
+}

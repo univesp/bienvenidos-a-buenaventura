@@ -1,0 +1,14 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "No, no. Estoy confundiendo las horas con los minutos.",
+				 "Mi vuelo sale a las…"
+			]
+		}
+	]
+}

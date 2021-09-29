@@ -1,0 +1,34 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "¿Pegar?. ¿No lo comprendo SENHOR."
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Perdone, estoy aprendiendo español.",
+				 "Es verdad, en español “pegar” tiene otro sentido, en este caso debo decir “coger” o “tomar”."
+			]
+		},
+
+		{
+			"nomePersonagem": "Polícia Federal",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena3_npc1_conversa",
+			"fala":[
+				 "No pasa nada, ¿en qué puedo ayudarle?"
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Funcionaria",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc3_conversa",
+			"fala":[
+				 "¿Cuál es su nombre y apellido, por favor?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "NOME SOBRENOME"
+			]
+		},
+
+		{
+			"nomePersonagem": "Funcionaria",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena1_npc3_conversa",
+			"fala":[
+				 "¿Tiene usted algún equipaje para despachar?"
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+﻿{
+	"dialogo":[
+		{
+			"nomePersonagem": "Recepcionista",
+			"jogadorFala": false,
+			"animacaoTroca": false,
+			"expressao": "cena4_npc1",
+			"fala":[
+				 "Lo siento Sr. SOBRENOME. Ya no tenemos habitaciones dobles disponibles.",
+				 "Pero está SÓ, ¿No?"
+			]
+		},
+
+		{
+			"nomePersonagem": "Jogador",
+			"jogadorFala": true,
+			"animacaoTroca": false,
+			"expressao": "expressao",
+			"fala":[
+				 "Sí, es verdad. Una individual, por favor."
+			]
+		}
+	]
+}
